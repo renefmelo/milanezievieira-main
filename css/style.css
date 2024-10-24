@@ -10,6 +10,7 @@
 * 	Template Style 
 *
 * ======================================================= */
+
 body {
   font-family: "Open Sans", Arial, sans-serif;
   font-weight: 400;
@@ -1298,4 +1299,9 @@ form label {
 
 /*# sourceMappingURL=style.css.map */
 
+/* Rene que adicionou aqui embaixo */
 
+#map {
+  height: 100%;
+  width: 100%;
+}
